@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# smart-brain-ui
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Demo Video](./static/demo_video.mp4)
 
 ## Available Scripts
 
